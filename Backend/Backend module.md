@@ -1,0 +1,13 @@
+1.[[bcrypt]]
+2.[[cors]]
+3.[[crypto]]
+4.[[dotenv]]
+5.[[ejs]]
+6.[[express]]
+7.[[express-session]]
+8.[[jsonwebtoken]]
+9.[[multer]]
+10.[[mysql2]]
+11.[[nodemon]]
+12.[[sequelize]]
+

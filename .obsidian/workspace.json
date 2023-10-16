@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "40cbcfea9fe65fa9",
@@ -146,7 +147,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "43c3ddd0059d6dac",
+  "active": "553cad55fc656995",
   "lastOpenFiles": [
     "solidity.md",
     "README.md",

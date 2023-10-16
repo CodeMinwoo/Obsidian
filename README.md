@@ -1,7 +1,7 @@
 # Obsidian, Second Brain 🧠
 
 # 💡 Solidity 
-* [[msg]]
+* [msg]()
 * [[상태변수]]
 *  [[view]]
 *  [[pure]]

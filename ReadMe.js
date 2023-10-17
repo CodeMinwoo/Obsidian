@@ -2,26 +2,40 @@ const fs = require('fs');
 const path = require('path')
 //배열 내 한국어 변환
 const ChangeKor = (arr)=>{
-    let newArr = arr.map((i)=>{
-        return encodeURIComponent(i);
-    })
-    return newArr;
+    let result = [];
+    for ( let i of arr){
+        let newArr = i.map((i)=>{
+            return encodeURIComponent(i);
+        })
+        result.push(newArr);
+    }
+    return result;
 }
 
 // URL 작성 함수
-const MakeURL = (arr,newArr)=>{
-    return newArr.map((i,index)=>{
-        return `* [${arr[index]}](https://github.com/killthecardz/Obsidian/blob/main/Solidity/${i}.md)`
-    })
+const MakeURL = (arr, newArr) => {
+    let result = [];
 
+    for (let index = 0; index < newArr.length; index++) {
+        const urls = newArr[index].map((i, innerIndex) => {
+            return `* [${arr[index][innerIndex].replace(".md","")}](https://github.com/killthecardz/Obsidian/blob/main/Solidity/${i})`;
+        });
+        result.push(urls);
+    }
+
+    return result;
 }
 
+//폴더 내 파일 가져오는 함수
 const getFiles = (directory)=>{
-    let result = fs.readdirSync(directory);
+    let result = [];
+    for( let i of directory){
+        result.push(fs.readdirSync(`./${i}`));
+    }
     return result
 }
-
-const getDir = (folder)=>{
+//폴더 가져오는 함수
+const getDir = ()=>{
     let items = fs.readdirSync("./");
 
         // 디렉토리만 필터링합니다.
@@ -29,19 +43,26 @@ const getDir = (folder)=>{
             const itemPath = path.join("./", item);
             return fs.statSync(itemPath).isDirectory() && item !== ".git" && item !== "node_modules" && item !== ".obsidian";
         });
-        console.log(subfolders);
         return subfolders;
 }
 
+// 메인 함수
 const main = ()=>{
-    let arr =getFiles("./solidity");
+    let subfolders =getDir();
+    let arr =getFiles(subfolders);
     let newArr = ChangeKor(arr);
     let result=MakeURL(arr,newArr);
-    console.log(result);
+
+    let output = '';
+    for (let i = 0; i < subfolders.length; i++) {
+        output += `# 🧠 ${subfolders[i]}\n`; 
+        output += result[i].join('\n') + '\n\n'; 
+    }
+
+    fs.writeFileSync('README.md', output);
 }
 
-// main();
-getDir();
+main();
 
 
 

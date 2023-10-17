@@ -1,4 +1,4 @@
-# Obsidian, Second Brain 🧠
+#  GIT 안에 든 미니 블로그 🧠
 
 # 💡 Solidity 
 * [Solidity/Bitcoin 흐름도.md](https://github.com/killthecardz/Obsidian/blob/main/Solidity/Bitcoin%20%ED%9D%90%EB%A6%84%EB%8F%84.md)
@@ -38,8 +38,8 @@
 - [컨트랙트 함수의 매개변수.md](https://github.com/killthecardz/Obsidian/blob/main/Solidity/%EC%BB%A8%ED%8A%B8%EB%9E%99%ED%8A%B8%20%ED%95%A8%EC%88%98%EC%9D%98%20%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98.md)
 - [컴퓨팅 환경(Computing Environment).md](https://github.com/killthecardz/Obsidian/blob/main/Solidity/%EC%BB%B4%ED%93%A8%ED%8C%85%20%ED%99%98%EA%B2%BD(Computing%20Environment).md)
 - [함수,변수의 가시성.md](https://github.com/killthecardz/Obsidian/blob/main/Solidity/%ED%95%A8%EC%88%98%2C%EB%B3%80%EC%88%98%EC%9D%98%20%EA%B0%80%EC%8B%9C%EC%84%B1.md)
-
-
+ 
+ 
 # 📜 Js
 
 * [JS/FormData();.md](https://github.com/killthecardz/Obsidian/blob/main/JS/FormData()%3B.md)

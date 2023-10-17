@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "06759fed8d4c7cad",
+        "id": "6fad4d01354987a6",
         "type": "tabs",
         "children": [
           {
-            "id": "43c3ddd0059d6dac",
+            "id": "804402315c1e12c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "node_modules/fs/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 224.50043487548828
   },
   "right": {
     "id": "40cbcfea9fe65fa9",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "node_modules/fs/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "node_modules/fs/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "node_modules/fs/README.md"
               }
             }
           }
@@ -147,10 +146,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "553cad55fc656995",
+  "active": "804402315c1e12c0",
   "lastOpenFiles": [
-    "solidity.md",
+    "package-lock.json",
+    "node_modules/fs/README.md",
+    "node_modules/fs/package.json",
+    "node_modules/fs",
+    "node_modules",
     "README.md",
+    "Frontend/test2.md",
+    "test.js",
+    "solidity.md",
     "Solidity.md"
   ]
 }

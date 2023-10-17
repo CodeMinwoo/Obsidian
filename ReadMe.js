@@ -13,12 +13,12 @@ const ChangeKor = (arr)=>{
 }
 
 // URL 작성 함수
-const MakeURL = (arr, newArr) => {
+const MakeURL = (arr, newArr,subfolders) => {
     let result = [];
 
     for (let index = 0; index < newArr.length; index++) {
         const urls = newArr[index].map((i, innerIndex) => {
-            return `* [${arr[index][innerIndex].replace(".md","")}](https://github.com/killthecardz/Obsidian/blob/main/Solidity/${i})`;
+            return `* [${arr[index][innerIndex].replace(".md","")}](https://github.com/killthecardz/Obsidian/blob/main/${subfolders[index]}/${i})`;
         });
         result.push(urls);
     }
@@ -51,7 +51,7 @@ const main = ()=>{
     let subfolders =getDir();
     let arr =getFiles(subfolders);
     let newArr = ChangeKor(arr);
-    let result=MakeURL(arr,newArr);
+    let result=MakeURL(arr,newArr,subfolders);
 
     let output = '';
     for (let i = 0; i < subfolders.length; i++) {

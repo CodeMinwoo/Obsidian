@@ -54,6 +54,7 @@ const main = ()=>{
     let result=MakeURL(arr,newArr,subfolders);
 
     let output = `# My Programming Brain Blueprint 💾\n\n`;
+        output += "https://user-images.githubusercontent.com/145280739/275825764-ca60770f-ec56-450b-8de6-4e10dc74c762.png \n\n"
     for (let i = 0; i < subfolders.length; i++) {
         output += `# 🧠 ${subfolders[i]}\n`; 
         output += result[i].join('\n') + '\n\n'; 

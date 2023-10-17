@@ -1,5 +1,7 @@
 # My Programming Brain Blueprint 💾
 
+https://user-images.githubusercontent.com/145280739/275825764-ca60770f-ec56-450b-8de6-4e10dc74c762.png 
+
 # 🧠 Backend
 * [AJAX](https://github.com/killthecardz/Obsidian/blob/main/Backend/AJAX.md)
 * [axios](https://github.com/killthecardz/Obsidian/blob/main/Backend/axios.md)

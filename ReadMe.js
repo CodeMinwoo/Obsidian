@@ -60,6 +60,7 @@ const main = ()=>{
     }
 
     fs.writeFileSync('README.md', output);
+    console.log("README 파일 수정/생성 완료")
 }
 
 main();

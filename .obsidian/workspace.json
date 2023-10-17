@@ -146,10 +146,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "591837595dff514d",
+  "active": "553cad55fc656995",
   "lastOpenFiles": [
     "Backend/쿠버네티스.md",
-    "컨테이너.md",
+    "Backend/컨테이너.md",
     "Backend/도커.md",
     "Solidity/using Counters for Counters.Counter.md",
     "Solidity/오퍼레이터(Operator).md",

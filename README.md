@@ -1,6 +1,6 @@
 # My Programming Brain Blueprint 💾
 
-<img width="711" alt="image" src="https://github.com/killthecardz/Obsidian/assets/145280739/fad6293a-eff1-42b9-94cd-d3c2e35e1852">
+<img width="1479" alt="image" src="https://github.com/killthecardz/Obsidian/assets/145280739/ca60770f-ec56-450b-8de6-4e10dc74c762">
 
 # 🧠 Backend
 * [AJAX](https://github.com/killthecardz/Obsidian/blob/main/Backend/AJAX.md)

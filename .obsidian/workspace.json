@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6fad4d01354987a6",
+        "id": "bad0c88afe0049c7",
         "type": "tabs",
         "children": [
           {
-            "id": "804402315c1e12c0",
+            "id": "dbe3cee91c8dbcfb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Solidity/ERC721.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ERc721",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,11 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 224.50043487548828
+    "width": 200
   },
   "right": {
     "id": "40cbcfea9fe65fa9",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Solidity/ERC721.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Solidity/ERC721.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Solidity/ERC721.md"
+              }
             }
           }
         ]
@@ -138,34 +147,41 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "804402315c1e12c0",
+  "active": "dbe3cee91c8dbcfb",
   "lastOpenFiles": [
+    "오퍼레이터(Operator).md",
+    "approve.md",
+    "setApprovalForAll.md",
+    "Solidity/ERC20 -approve().md",
+    "Solidity/ERC721.md",
+    "isApprovedForAll.md",
+    "transferFrom.md",
+    "using Counters for Counters.Counter.md",
+    "event, emit.md",
+    "Counters.md",
+    "README.md",
+    "Solidity/구조체(struct).md",
+    "Solidity/Pasted image 20231017143445.png",
+    "Solidity/getBalance VS. balanceOf.md",
+    "balanceOf.md",
+    "Backend/jsonwebtoken.md",
+    "Backend/express.md",
     "Test/ㅇㅇㅇ.md",
     "박민우.md",
     "Test/ㅇㅇ.md",
     "JS/비동기(Asynchronous).md",
     "Solidity/함수,변수의 가시성.md",
     "Backend/Backend module.md",
-    "express.md",
-    "jsonwebtoken.md",
-    "README.md",
     "Test/이미지 테스트.md",
-    "Solidity/Pasted image 20231017143445.png",
     "Test",
     "TEst",
     "README2.md",
     "README3.md",
     "README4.md",
-    "README5.md",
-    "README6.md",
-    "node_modules/fs/README.md",
     "package-lock.json",
     "node_modules/fs/package.json",
     "node_modules/fs",
     "node_modules",
-    "Frontend/test2.md",
-    "test.js",
-    "solidity.md",
-    "Solidity.md"
+    "test.js"
   ]
 }

@@ -11,8 +11,12 @@
             "id": "e061a7914d79d2e1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JS/ejs.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ow",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "40cbcfea9fe65fa9",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JS/ejs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JS/ejs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JS/ejs.md"
+              }
             }
           }
         ]
@@ -140,14 +149,17 @@
   },
   "active": "e061a7914d79d2e1",
   "lastOpenFiles": [
-    "수정자(modifier).md",
-    "OpenZeppelin의 ownable.sol.md",
+    "JS/데이터 요청 방식.md",
+    "JS/ejs.md",
+    "JS/JSON형식과 객체의 차이점.md",
+    "Solidity/오퍼레이터(Operator).md",
+    "Solidity/수정자(modifier).md",
+    "Solidity/OpenZeppelin의 ownable.sol.md",
     "Solidity/setApprovalForAll.md",
     "README.md",
-    "JSON.stringify().md",
+    "JS/JSON.stringify().md",
     "Solidity/ERC721.md",
-    "JSON형식과 객체의 차이점.md",
-    "JSON.parse().md",
+    "JS/JSON.parse().md",
     "Solidity/ERC-1155.md",
     "conflict-files-obsidian-git.md",
     "readme.js",
@@ -163,10 +175,7 @@
     "Backend/컨테이너.md",
     "Backend/도커.md",
     "Solidity/using Counters for Counters.Counter.md",
-    "Solidity/오퍼레이터(Operator).md",
     "Solidity/approve.md",
-    "Solidity/이벤트(event), emit.md",
-    "Solidity/receive().md",
     "Solidity/Pasted image 20231017143445.png",
     "Test",
     "TEst",

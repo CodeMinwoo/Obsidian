@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c0f0a0aaf44393d6",
+        "id": "a337d8ac1951d0d9",
         "type": "tabs",
         "children": [
           {
-            "id": "7e21f6195b6d61a4",
+            "id": "e061a7914d79d2e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Solidity/setApprovalForAll.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5225bf8cf4c84321",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "setA",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solidity/setApprovalForAll.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solidity/setApprovalForAll.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Solidity/setApprovalForAll.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,13 +138,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "553cad55fc656995",
+  "active": "e061a7914d79d2e1",
   "lastOpenFiles": [
-    "Solidity/ERC-1155.md",
+    "수정자(modifier).md",
+    "OpenZeppelin의 ownable.sol.md",
+    "Solidity/setApprovalForAll.md",
     "README.md",
+    "JSON.stringify().md",
+    "Solidity/ERC721.md",
+    "JSON형식과 객체의 차이점.md",
+    "JSON.parse().md",
+    "Solidity/ERC-1155.md",
     "conflict-files-obsidian-git.md",
     "readme.js",
-    "Solidity/setApprovalForAll.md",
     "Backend/REST API.md",
     "Solidity/Pragma.md",
     "Solidity/Ethereum 노드의 구성.md",
@@ -182,11 +167,6 @@
     "Solidity/approve.md",
     "Solidity/이벤트(event), emit.md",
     "Solidity/receive().md",
-    "Solidity/payable.md",
-    "Solidity/send().md",
-    "Solidity/pure.md",
-    "Solidity/transferFrom.md",
-    "Solidity/isApprovedForAll.md",
     "Solidity/Pasted image 20231017143445.png",
     "Test",
     "TEst",

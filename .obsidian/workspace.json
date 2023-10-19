@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "a337d8ac1951d0d9",
+        "id": "cb78256b2059b67a",
         "type": "tabs",
         "children": [
           {
-            "id": "e061a7914d79d2e1",
+            "id": "2084e1bf47e56ee5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4176a9ff4ebc8487",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/ejs.md",
+                "file": "indexed.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "40cbcfea9fe65fa9",
@@ -86,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/ejs.md",
+                "file": "indexed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/ejs.md",
+                "file": "indexed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/ejs.md"
+                "file": "indexed.md"
               }
             }
           }
@@ -147,10 +155,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e061a7914d79d2e1",
+  "active": "4176a9ff4ebc8487",
   "lastOpenFiles": [
-    "JS/데이터 요청 방식.md",
     "JS/ejs.md",
+    "indexed.md",
+    "JS/데이터 요청 방식.md",
     "JS/JSON형식과 객체의 차이점.md",
     "Solidity/오퍼레이터(Operator).md",
     "Solidity/수정자(modifier).md",
@@ -175,7 +184,6 @@
     "Backend/컨테이너.md",
     "Backend/도커.md",
     "Solidity/using Counters for Counters.Counter.md",
-    "Solidity/approve.md",
     "Solidity/Pasted image 20231017143445.png",
     "Test",
     "TEst",

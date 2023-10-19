@@ -1,7 +1,5 @@
 # My Programming Brain Blueprint 💾
 
-https://user-images.githubusercontent.com/145280739/275825764-ca60770f-ec56-450b-8de6-4e10dc74c762.png 
-
 # 🧠 Backend
 * [AJAX](https://github.com/killthecardz/Obsidian/blob/main/Backend/AJAX.md)
 * [axios](https://github.com/killthecardz/Obsidian/blob/main/Backend/axios.md)
@@ -21,8 +19,12 @@ https://user-images.githubusercontent.com/145280739/275825764-ca60770f-ec56-450b
 # 🧠 JS
 * [aplication_json](https://github.com/killthecardz/Obsidian/blob/main/JS/aplication_json.md)
 * [async&await](https://github.com/killthecardz/Obsidian/blob/main/JS/async%26await.md)
+* [ejs](https://github.com/killthecardz/Obsidian/blob/main/JS/ejs.md)
 * [encodeURIComponent , decodeURIComponent](https://github.com/killthecardz/Obsidian/blob/main/JS/encodeURIComponent%20%2C%20decodeURIComponent.md)
 * [FormData();](https://github.com/killthecardz/Obsidian/blob/main/JS/FormData()%3B.md)
+* [JSON.parse()](https://github.com/killthecardz/Obsidian/blob/main/JS/JSON.parse().md)
+* [JSON.stringify()](https://github.com/killthecardz/Obsidian/blob/main/JS/JSON.stringify().md)
+* [JSON형식과 객체의 차이점](https://github.com/killthecardz/Obsidian/blob/main/JS/JSON%ED%98%95%EC%8B%9D%EA%B3%BC%20%EA%B0%9D%EC%B2%B4%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
 * [MIME 타입](https://github.com/killthecardz/Obsidian/blob/main/JS/MIME%20%ED%83%80%EC%9E%85.md)
 * [multipart&&form-data](https://github.com/killthecardz/Obsidian/blob/main/JS/multipart%26%26form-data.md)
 * [Promise](https://github.com/killthecardz/Obsidian/blob/main/JS/Promise.md)
@@ -55,6 +57,7 @@ https://user-images.githubusercontent.com/145280739/275825764-ca60770f-ec56-450b
 * [Memory](https://github.com/killthecardz/Obsidian/blob/main/Solidity/Memory.md)
 * [msg](https://github.com/killthecardz/Obsidian/blob/main/Solidity/msg.md)
 * [Nonce](https://github.com/killthecardz/Obsidian/blob/main/Solidity/Nonce.md)
+* [OpenZeppelin의 ownable.sol](https://github.com/killthecardz/Obsidian/blob/main/Solidity/OpenZeppelin%EC%9D%98%20ownable.sol.md)
 * [payable](https://github.com/killthecardz/Obsidian/blob/main/Solidity/payable.md)
 * [Pragma](https://github.com/killthecardz/Obsidian/blob/main/Solidity/Pragma.md)
 * [pure](https://github.com/killthecardz/Obsidian/blob/main/Solidity/pure.md)
@@ -77,6 +80,7 @@ https://user-images.githubusercontent.com/145280739/275825764-ca60770f-ec56-450b
 * [바이트 배열](https://github.com/killthecardz/Obsidian/blob/main/Solidity/%EB%B0%94%EC%9D%B4%ED%8A%B8%20%EB%B0%B0%EC%97%B4.md)
 * [상태 저장소(State Storage)](https://github.com/killthecardz/Obsidian/blob/main/Solidity/%EC%83%81%ED%83%9C%20%EC%A0%80%EC%9E%A5%EC%86%8C(State%20Storage).md)
 * [상태변수](https://github.com/killthecardz/Obsidian/blob/main/Solidity/%EC%83%81%ED%83%9C%EB%B3%80%EC%88%98.md)
+* [수정자(modifier)](https://github.com/killthecardz/Obsidian/blob/main/Solidity/%EC%88%98%EC%A0%95%EC%9E%90(modifier).md)
 * [오퍼레이터(Operator)](https://github.com/killthecardz/Obsidian/blob/main/Solidity/%EC%98%A4%ED%8D%BC%EB%A0%88%EC%9D%B4%ED%84%B0(Operator).md)
 * [이벤트(event), emit](https://github.com/killthecardz/Obsidian/blob/main/Solidity/%EC%9D%B4%EB%B2%A4%ED%8A%B8(event)%2C%20emit.md)
 * [컨트랙트 Override](https://github.com/killthecardz/Obsidian/blob/main/Solidity/%EC%BB%A8%ED%8A%B8%EB%9E%99%ED%8A%B8%20Override.md)

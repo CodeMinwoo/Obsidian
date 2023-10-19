@@ -22,3 +22,22 @@ function getStudentName() public view returns (string memory) {
 return alice.name;
 }
 ```
+
+### 솔리디티에서 struct를 사용할 때, 멤버변수에 대한 접근 제한자(public 등) 을 직접 지정할 수 없다
+
+struct를 이용하여 상태 변수나 로컬 변수를 선언할 때는 해당 변수에 대한 접근 제한자를 지정할 수 있다.
+```js
+contract Token {
+    struct ListedToken {
+        uint tokenId;
+        address payable owner;
+        address payable seller;
+        uint price;
+        bool currentlyListed;
+    }
+
+    ListedToken public listedToken;  // public 접근 제한자를 사용한 상태 변수
+    ListedToken private anotherListedToken;  // private 접근 제한자를 사용한 상태 변수
+}
+
+```

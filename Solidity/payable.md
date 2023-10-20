@@ -20,3 +20,14 @@ function buyItem() public payable {
 - `payable` 함수는 더 일반적이며, 이더를 받는 것 외에도 추가 로직과 매개변수를 허용합니다.
 
 이 두 함수는 모두 `payable`로 표시되어 있기 때문에 이더를 받을 수 있습니다. 어떤 함수를 사용할지는 컨트랙트의 요구 사항과 목적에 따라 달라집니다.
+
+
+## address 타입 payable 캐스팅
+
+특정 버전의 Solidity에서는 `payable` 함수를 사용하여 `address` 타입을 `address payable` 타입으로 명시적으로 캐스팅할 수 있습니다.
+
+```js
+address nonPayableAddress = ...;
+address payable payableAddress = payable(nonPayableAddress);
+
+```

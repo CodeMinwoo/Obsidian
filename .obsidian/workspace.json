@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "7e9593d54d9451fd",
+        "id": "95ffc5f2ec4c78bb",
         "type": "tabs",
         "children": [
           {
-            "id": "1271bdd3361e36b4",
+            "id": "194a823334241333",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a79d9715e4f005c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solidity/abi.encodePacked.md",
+                "file": "Solidity/ERC721.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "encode",
+                "query": "721",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -70,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "40cbcfea9fe65fa9",
@@ -86,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solidity/abi.encodePacked.md",
+                "file": "Solidity/ERC721.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solidity/abi.encodePacked.md",
+                "file": "Solidity/ERC721.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solidity/abi.encodePacked.md"
+                "file": "Solidity/ERC721.md"
               }
             }
           }
@@ -147,24 +157,27 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1271bdd3361e36b4",
+  "active": "a79d9715e4f005c7",
   "lastOpenFiles": [
+    "ERC721 토큰에 대한 추가 정보 제공방법.md",
+    "README.md",
+    "Solidity/README.md",
+    "Solidity/Solidity에서 배열을 다루는 방법.md",
+    "Solidity/pure.md",
+    "Solidity/abi.encodePacked.md",
     "Solidity/ERC721.md",
     "Solidity/OpenZeppelin의 ownable.sol.md",
     "Solidity/Solidity 함수 내 복합 데이터 타입 위치 지정자.md",
     "Solidity/ERC721Enumerable.md",
-    "Solidity/Solidity에서 배열을 다루는 방법.md",
     "Solidity/Solidity 데이터를 저장 할 수 있는 세가지 공간.md",
     "Solidity/Memory.md",
     "Solidity/payable.md",
-    "README.md",
     "Solidity/컨트랙트 상속.md",
     "Solidity/ERC721URIStorage.md",
     "Solidity/복합 데이터.md",
     "Solidity/indexed.md",
     "Solidity/Solidity 의 'this'.md",
     "Solidity/send().md",
-    "Solidity/README.md",
     "Solidity/구조체(struct).md",
     "JS/ejs.md",
     "JS/데이터 요청 방식.md",
@@ -172,9 +185,6 @@
     "Solidity/오퍼레이터(Operator).md",
     "Solidity/수정자(modifier).md",
     "Solidity/setApprovalForAll.md",
-    "JS/JSON.stringify().md",
-    "JS/JSON.parse().md",
-    "Solidity/ERC-1155.md",
     "readme.js",
     "Solidity/Pasted image 20231017143445.png",
     "Test",

@@ -44,6 +44,7 @@
 * [ERC-1155](https://github.com/killthecardz/Obsidian/blob/main/Solidity/ERC-1155.md)
 * [ERC20 -approve()](https://github.com/killthecardz/Obsidian/blob/main/Solidity/ERC20%20-approve().md)
 * [ERC20-allowance()](https://github.com/killthecardz/Obsidian/blob/main/Solidity/ERC20-allowance().md)
+* [ERC721 토큰에 대한 추가 정보 제공방법](https://github.com/killthecardz/Obsidian/blob/main/Solidity/ERC721%20%ED%86%A0%ED%81%B0%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%B6%94%EA%B0%80%20%EC%A0%95%EB%B3%B4%20%EC%A0%9C%EA%B3%B5%EB%B0%A9%EB%B2%95.md)
 * [ERC721](https://github.com/killthecardz/Obsidian/blob/main/Solidity/ERC721.md)
 * [ERC721Enumerable](https://github.com/killthecardz/Obsidian/blob/main/Solidity/ERC721Enumerable.md)
 * [ERC721URIStorage](https://github.com/killthecardz/Obsidian/blob/main/Solidity/ERC721URIStorage.md)

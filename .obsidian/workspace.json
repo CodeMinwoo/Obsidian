@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e970fd309386c19c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "useEffect 안의 이벤트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "artifact.require().md",
+                "file": "useEffect 안의 이벤트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "artifact.require().md",
+                "file": "useEffect 안의 이벤트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "artifact.require().md"
+                "file": "useEffect 안의 이벤트.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a58d7fda6dbd6052",
+  "active": "e970fd309386c19c",
   "lastOpenFiles": [
-    "README.md",
     "artifact.require().md",
+    "useEffect 안의 이벤트.md",
+    "README.md",
     "Solidity/ERC721.md",
     "Solidity/ERC721 토큰에 대한 추가 정보 제공방법.md",
     "Solidity/README.md",
@@ -173,7 +187,6 @@
     "JS/데이터 요청 방식.md",
     "JS/JSON형식과 객체의 차이점.md",
     "Solidity/오퍼레이터(Operator).md",
-    "Solidity/수정자(modifier).md",
     "readme.js",
     "Solidity/Pasted image 20231017143445.png",
     "Test",

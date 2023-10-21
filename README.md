@@ -30,6 +30,7 @@
 * [Promise](https://github.com/killthecardz/Obsidian/blob/main/JS/Promise.md)
 * [require Vs. import](https://github.com/killthecardz/Obsidian/blob/main/JS/require%20Vs.%20import.md)
 * [then&catch](https://github.com/killthecardz/Obsidian/blob/main/JS/then%26catch.md)
+* [useEffect 안의 이벤트](https://github.com/killthecardz/Obsidian/blob/main/JS/useEffect%20%EC%95%88%EC%9D%98%20%EC%9D%B4%EB%B2%A4%ED%8A%B8.md)
 * [데이터 요청 방식](https://github.com/killthecardz/Obsidian/blob/main/JS/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%9A%94%EC%B2%AD%20%EB%B0%A9%EC%8B%9D.md)
 * [비동기(Asynchronous)](https://github.com/killthecardz/Obsidian/blob/main/JS/%EB%B9%84%EB%8F%99%EA%B8%B0(Asynchronous).md)
 * [화살표함수 () Vs. {}](https://github.com/killthecardz/Obsidian/blob/main/JS/%ED%99%94%EC%82%B4%ED%91%9C%ED%95%A8%EC%88%98%20()%20Vs.%20%7B%7D.md)

@@ -39,6 +39,7 @@
 * [abi.encodePacked](https://github.com/killthecardz/Obsidian/blob/main/Solidity/abi.encodePacked.md)
 * [address](https://github.com/killthecardz/Obsidian/blob/main/Solidity/address.md)
 * [approve](https://github.com/killthecardz/Obsidian/blob/main/Solidity/approve.md)
+* [artifact.require()](https://github.com/killthecardz/Obsidian/blob/main/Solidity/artifact.require().md)
 * [Bitcoin 흐름도](https://github.com/killthecardz/Obsidian/blob/main/Solidity/Bitcoin%20%ED%9D%90%EB%A6%84%EB%8F%84.md)
 * [Bitocin 노드의 구성](https://github.com/killthecardz/Obsidian/blob/main/Solidity/Bitocin%20%EB%85%B8%EB%93%9C%EC%9D%98%20%EA%B5%AC%EC%84%B1.md)
 * [Counters](https://github.com/killthecardz/Obsidian/blob/main/Solidity/Counters.md)

@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "99ddffb9b1196549",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS/리액트 훅(hook).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "721",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solidity/artifact.require().md",
+                "file": "JS/리액트 훅(hook).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solidity/artifact.require().md",
+                "file": "JS/리액트 훅(hook).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solidity/artifact.require().md"
+                "file": "JS/리액트 훅(hook).md"
               }
             }
           }
@@ -161,9 +173,12 @@
   },
   "active": "553cad55fc656995",
   "lastOpenFiles": [
+    "JS/생명주기.md",
+    "JS/리액트 훅(hook).md",
+    "JS/상태(state).md",
+    "Solidity/artifact.require().md",
     "README.md",
     "JS/useEffect 안의 이벤트.md",
-    "Solidity/artifact.require().md",
     "Solidity/ERC721.md",
     "Solidity/ERC721 토큰에 대한 추가 정보 제공방법.md",
     "Solidity/README.md",
@@ -184,9 +199,6 @@
     "Solidity/send().md",
     "Solidity/구조체(struct).md",
     "JS/ejs.md",
-    "JS/데이터 요청 방식.md",
-    "JS/JSON형식과 객체의 차이점.md",
-    "Solidity/오퍼레이터(Operator).md",
     "readme.js",
     "Solidity/Pasted image 20231017143445.png",
     "Test",

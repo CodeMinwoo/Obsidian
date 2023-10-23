@@ -4,47 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "fab2a02abe5ffd8b",
+        "id": "e4c81b1113651474",
         "type": "tabs",
         "children": [
           {
-            "id": "a58d7fda6dbd6052",
+            "id": "c081534f33d800a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Solidity/artifact.require().md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "e970fd309386c19c",
+            "id": "bc31b39898232bc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solidity/artifact.require().md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99ddffb9b1196549",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS/리액트 훅(hook).md",
+                "file": "uint VS. int.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,8 +57,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "uint",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -90,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/리액트 훅(hook).md",
+                "file": "uint VS. int.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/리액트 훅(hook).md",
+                "file": "uint VS. int.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/리액트 훅(hook).md"
+                "file": "uint VS. int.md"
               }
             }
           }
@@ -171,12 +156,18 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "553cad55fc656995",
+  "active": "bc31b39898232bc4",
   "lastOpenFiles": [
-    "JS/생명주기.md",
-    "JS/리액트 훅(hook).md",
-    "JS/상태(state).md",
+    "uint VS. int.md",
     "Solidity/artifact.require().md",
+    "JS/리액트 훅(hook).md",
+    "Solidity/Pragma.md",
+    "SPDX-License-Identifier MIT.md",
+    "Solidity/오퍼레이터(Operator).md",
+    "useReducer.md",
+    "useContext.md",
+    "JS/생명주기.md",
+    "JS/상태(state).md",
     "README.md",
     "JS/useEffect 안의 이벤트.md",
     "Solidity/ERC721.md",
@@ -193,12 +184,6 @@
     "Solidity/payable.md",
     "Solidity/컨트랙트 상속.md",
     "Solidity/ERC721URIStorage.md",
-    "Solidity/복합 데이터.md",
-    "Solidity/indexed.md",
-    "Solidity/Solidity 의 'this'.md",
-    "Solidity/send().md",
-    "Solidity/구조체(struct).md",
-    "JS/ejs.md",
     "readme.js",
     "Solidity/Pasted image 20231017143445.png",
     "Test",

@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e4c81b1113651474",
+        "id": "2f775b49d7ab7e15",
         "type": "tabs",
         "children": [
           {
-            "id": "c081534f33d800a3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "bc31b39898232bc4",
+            "id": "59926a24f8097c02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uint VS. int.md",
+                "file": "알고리즘 수업/1-1.알고리즘의 정의와 다양한 알고리즘 문제.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "uint",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "uint VS. int.md",
+                "file": "알고리즘 수업/1-1.알고리즘의 정의와 다양한 알고리즘 문제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "uint VS. int.md",
+                "file": "알고리즘 수업/1-1.알고리즘의 정의와 다양한 알고리즘 문제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "uint VS. int.md"
+                "file": "알고리즘 수업/1-1.알고리즘의 정의와 다양한 알고리즘 문제.md"
               }
             }
           }
@@ -156,8 +146,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "bc31b39898232bc4",
+  "active": "59926a24f8097c02",
   "lastOpenFiles": [
+    "알고리즘 수업/1-1.알고리즘의 정의와 다양한 알고리즘 문제.md",
+    "알고리즘 수업",
     "uint VS. int.md",
     "Solidity/artifact.require().md",
     "JS/리액트 훅(hook).md",
@@ -183,7 +175,6 @@
     "Solidity/Memory.md",
     "Solidity/payable.md",
     "Solidity/컨트랙트 상속.md",
-    "Solidity/ERC721URIStorage.md",
     "readme.js",
     "Solidity/Pasted image 20231017143445.png",
     "Test",

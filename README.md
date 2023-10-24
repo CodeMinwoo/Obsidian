@@ -103,3 +103,6 @@
 * [컴퓨팅 환경(Computing Environment)](https://github.com/killthecardz/Obsidian/blob/main/Solidity/%EC%BB%B4%ED%93%A8%ED%8C%85%20%ED%99%98%EA%B2%BD(Computing%20Environment).md)
 * [함수,변수의 가시성](https://github.com/killthecardz/Obsidian/blob/main/Solidity/%ED%95%A8%EC%88%98%2C%EB%B3%80%EC%88%98%EC%9D%98%20%EA%B0%80%EC%8B%9C%EC%84%B1.md)
 
+# 🧠 알고리즘 수업
+* [1-1.알고리즘의 정의와 다양한 알고리즘 문제](https://github.com/killthecardz/Obsidian/blob/main/알고리즘 수업/1-1.%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98%20%EC%A0%95%EC%9D%98%EC%99%80%20%EB%8B%A4%EC%96%91%ED%95%9C%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%AC%B8%EC%A0%9C.md)
+

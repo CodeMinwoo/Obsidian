@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/타입스크립트 기본 타입 정리.md",
+                "file": "TypeScript/타입을 미리 정하기 애매할때(union, any , unknown).md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "40cbcfea9fe65fa9",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/타입스크립트 기본 타입 정리.md",
+                "file": "TypeScript/타입을 미리 정하기 애매할때(union, any , unknown).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/타입스크립트 기본 타입 정리.md",
+                "file": "TypeScript/타입을 미리 정하기 애매할때(union, any , unknown).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/타입스크립트 기본 타입 정리.md"
+                "file": "TypeScript/타입을 미리 정하기 애매할때(union, any , unknown).md"
               }
             }
           }
@@ -156,10 +155,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "553cad55fc656995",
+  "active": "46e31405abac054f",
   "lastOpenFiles": [
-    "TypeScript/TypeScript 세팅.md",
     "TypeScript/타입스크립트 기본 타입 정리.md",
+    "TypeScript/타입을 미리 정하기 애매할때(union, any , unknown).md",
+    "TypeScript/TypeScript 세팅.md",
     "Solidity/Pasted image 20231026102954.png",
     "Solidity/Pasted image 20231026102834.png",
     "Solidity/Pasted image 20231026102716.png",
@@ -189,7 +189,6 @@
     "Solidity/OpenZeppelin의 ownable.sol.md",
     "Solidity/Solidity 함수 내 복합 데이터 타입 위치 지정자.md",
     "Solidity/ERC721Enumerable.md",
-    "Solidity/Solidity 데이터를 저장 할 수 있는 세가지 공간.md",
     "readme.js",
     "Solidity/Pasted image 20231017143445.png",
     "Test",

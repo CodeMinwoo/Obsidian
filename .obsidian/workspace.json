@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "2f775b49d7ab7e15",
+        "id": "30c93d6468711f7d",
         "type": "tabs",
         "children": [
           {
-            "id": "59926a24f8097c02",
+            "id": "4f4e96945abd60c4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "46e31405abac054f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘 수업/1-1.알고리즘의 정의와 다양한 알고리즘 문제.md",
+                "file": "TypeScript/타입스크립트 기본 타입 정리.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "40cbcfea9fe65fa9",
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘 수업/1-1.알고리즘의 정의와 다양한 알고리즘 문제.md",
+                "file": "TypeScript/타입스크립트 기본 타입 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘 수업/1-1.알고리즘의 정의와 다양한 알고리즘 문제.md",
+                "file": "TypeScript/타입스크립트 기본 타입 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘 수업/1-1.알고리즘의 정의와 다양한 알고리즘 문제.md"
+                "file": "TypeScript/타입스크립트 기본 타입 정리.md"
               }
             }
           }
@@ -146,9 +156,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "59926a24f8097c02",
+  "active": "553cad55fc656995",
   "lastOpenFiles": [
+    "TypeScript/TypeScript 세팅.md",
+    "TypeScript/타입스크립트 기본 타입 정리.md",
+    "Solidity/Pasted image 20231026102954.png",
+    "Solidity/Pasted image 20231026102834.png",
+    "Solidity/Pasted image 20231026102716.png",
+    "NEXT.js/NEXT.js 정리.md",
+    "TypeScript",
     "알고리즘 수업/1-1.알고리즘의 정의와 다양한 알고리즘 문제.md",
+    "NEXT.js",
     "알고리즘 수업",
     "uint VS. int.md",
     "Solidity/artifact.require().md",
@@ -172,9 +190,6 @@
     "Solidity/Solidity 함수 내 복합 데이터 타입 위치 지정자.md",
     "Solidity/ERC721Enumerable.md",
     "Solidity/Solidity 데이터를 저장 할 수 있는 세가지 공간.md",
-    "Solidity/Memory.md",
-    "Solidity/payable.md",
-    "Solidity/컨트랙트 상속.md",
     "readme.js",
     "Solidity/Pasted image 20231017143445.png",
     "Test",
@@ -182,7 +197,6 @@
     "package-lock.json",
     "node_modules/fs/package.json",
     "node_modules/fs",
-    "node_modules",
-    "test.js"
+    "node_modules"
   ]
 }

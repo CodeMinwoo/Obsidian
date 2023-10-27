@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "30c93d6468711f7d",
+        "id": "77cd8138c2c27b6e",
         "type": "tabs",
         "children": [
           {
-            "id": "46e31405abac054f",
+            "id": "bacbe49f054343e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/Literal Types로 만드는 const 변수 유사품.md",
+                "file": "TypeScript/9)타입스크립트로 HTML 변경과 조작할 때 주의점.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/Literal Types로 만드는 const 변수 유사품.md",
+                "file": "TypeScript/9)타입스크립트로 HTML 변경과 조작할 때 주의점.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/Literal Types로 만드는 const 변수 유사품.md",
+                "file": "TypeScript/9)타입스크립트로 HTML 변경과 조작할 때 주의점.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/Literal Types로 만드는 const 변수 유사품.md"
+                "file": "TypeScript/9)타입스크립트로 HTML 변경과 조작할 때 주의점.md"
               }
             }
           }
@@ -146,15 +146,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "46e31405abac054f",
+  "active": "bacbe49f054343e5",
   "lastOpenFiles": [
-    "TypeScript/타입도 변수에 담아서 사용하기 , readonly.md",
-    "TypeScript/Literal Types로 만드는 const 변수 유사품.md",
-    "TypeScript/타입 확정하기 Narrowing, Assertion.md",
-    "TypeScript/타입을 미리 정하기 애매할때(union, any , unknown).md",
-    "TypeScript/함수에 타입 지정하는 법 , void 타입.md",
-    "TypeScript/타입스크립트 기본 타입 정리.md",
-    "TypeScript/TypeScript 세팅.md",
+    "TypeScript/8)함수와 methods에 type alias 지정하는 방법.md",
+    "TypeScript/9)타입스크립트로 HTML 변경과 조작할 때 주의점.md",
+    "TypeScript/7)Literal Types로 만드는 const 변수 유사품.md",
+    "TypeScript/6)타입도 변수에 담아서 사용하기 , readonly.md",
+    "TypeScript/5)타입 확정하기 Narrowing, Assertion.md",
+    "TypeScript/4)함수에 타입 지정하는 법 , void 타입.md",
+    "TypeScript/3)타입을 미리 정하기 애매할때(union, any , unknown).md",
+    "TypeScript/2)타입스크립트 기본 타입 정리.md",
+    "TypeScript/1)TypeScript 세팅.md",
     "Solidity/Pasted image 20231026102954.png",
     "Solidity/Pasted image 20231026102834.png",
     "Solidity/Pasted image 20231026102716.png",
@@ -178,8 +180,6 @@
     "Solidity/ERC721.md",
     "Solidity/ERC721 토큰에 대한 추가 정보 제공방법.md",
     "Solidity/README.md",
-    "Solidity/Solidity에서 배열을 다루는 방법.md",
-    "Solidity/pure.md",
     "readme.js",
     "Solidity/Pasted image 20231017143445.png",
     "Test",

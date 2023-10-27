@@ -4,7 +4,7 @@
 ```
 type Animal = string | number | undefined
 
-let 동물 : Animla;
+let 동물 : Animal;
 ```
 
 ** type alias 는 같은 이름으로 재정의할 수 없다

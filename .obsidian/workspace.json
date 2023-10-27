@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/타입을 미리 정하기 애매할때(union, any , unknown).md",
+                "file": "TypeScript/타입 확정하기 Narrowing, Assertion.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "40cbcfea9fe65fa9",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/타입을 미리 정하기 애매할때(union, any , unknown).md",
+                "file": "TypeScript/타입 확정하기 Narrowing, Assertion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/타입을 미리 정하기 애매할때(union, any , unknown).md",
+                "file": "TypeScript/타입 확정하기 Narrowing, Assertion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/타입을 미리 정하기 애매할때(union, any , unknown).md"
+                "file": "TypeScript/타입 확정하기 Narrowing, Assertion.md"
               }
             }
           }
@@ -157,8 +158,10 @@
   },
   "active": "46e31405abac054f",
   "lastOpenFiles": [
-    "TypeScript/타입스크립트 기본 타입 정리.md",
     "TypeScript/타입을 미리 정하기 애매할때(union, any , unknown).md",
+    "TypeScript/타입 확정하기 Narrowing, Assertion.md",
+    "TypeScript/함수에 타입 지정하는 법 , void 타입.md",
+    "TypeScript/타입스크립트 기본 타입 정리.md",
     "TypeScript/TypeScript 세팅.md",
     "Solidity/Pasted image 20231026102954.png",
     "Solidity/Pasted image 20231026102834.png",
@@ -187,8 +190,6 @@
     "Solidity/pure.md",
     "Solidity/abi.encodePacked.md",
     "Solidity/OpenZeppelin의 ownable.sol.md",
-    "Solidity/Solidity 함수 내 복합 데이터 타입 위치 지정자.md",
-    "Solidity/ERC721Enumerable.md",
     "readme.js",
     "Solidity/Pasted image 20231017143445.png",
     "Test",

@@ -47,3 +47,16 @@ type Person = {
 }
 const jake = 변환기<Person>('{"name":"kim"}');
 ```
+
+Narrowing 을 위해서 typeof 를 할 때 배열의 typeof 를 검사하면 obj 객체라고 나온다.
+
+자바스크립트의 배열은 객체이기 때문이다
+
+따라서 배열인지 확인하려면
+
+```js
+	console.log(Array.isArray(arr)); // true
+
+```
+
+Array.isArray()를 사용해야 한다.

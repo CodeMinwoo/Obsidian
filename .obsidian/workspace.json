@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "타입단언.md",
+                "file": "TypeScript/15)Typescript + React 사용시 유의사항.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80b1b848dc9194cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TypeScript/15)Typescript + React 사용시 유의사항.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "타입단언.md",
+                "file": "TypeScript/15)Typescript + React 사용시 유의사항.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "타입단언.md",
+                "file": "TypeScript/15)Typescript + React 사용시 유의사항.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "타입단언.md"
+                "file": "TypeScript/15)Typescript + React 사용시 유의사항.md"
               }
             }
           }
@@ -146,11 +159,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d206a2de7674a247",
+  "active": "80b1b848dc9194cd",
   "lastOpenFiles": [
     "TypeScript/14) Generic 제네릭 문법.md",
-    "타입단언.md",
     "TypeScript/15)Typescript + React 사용시 유의사항.md",
+    "TypeScript/타입단언.md",
     "TypeScript/2)타입스크립트 기본 타입 정리.md",
     "TypeScript/3)타입을 미리 정하기 애매할때(union, any , unknown).md",
     "TypeScript/4)함수에 타입 지정하는 법 , void 타입.md",

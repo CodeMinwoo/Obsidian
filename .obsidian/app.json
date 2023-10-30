@@ -1,4 +1,5 @@
 {
   "attachmentFolderPath": "Solidity",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheck": false
 }

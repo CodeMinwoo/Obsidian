@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "77cd8138c2c27b6e",
+        "id": "4c433a1f7a968331",
         "type": "tabs",
         "children": [
           {
-            "id": "bacbe49f054343e5",
+            "id": "d206a2de7674a247",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/9)타입스크립트로 HTML 변경과 조작할 때 주의점.md",
+                "file": "TypeScript/14) Generic 제네릭 문법.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/9)타입스크립트로 HTML 변경과 조작할 때 주의점.md",
+                "file": "TypeScript/14) Generic 제네릭 문법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/9)타입스크립트로 HTML 변경과 조작할 때 주의점.md",
+                "file": "TypeScript/14) Generic 제네릭 문법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/9)타입스크립트로 HTML 변경과 조작할 때 주의점.md"
+                "file": "TypeScript/14) Generic 제네릭 문법.md"
               }
             }
           }
@@ -147,10 +146,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "bacbe49f054343e5",
+  "active": "d206a2de7674a247",
   "lastOpenFiles": [
-    "TypeScript/8)함수와 methods에 type alias 지정하는 방법.md",
+    "TypeScript/13) Object에 타입을 지정하는 또다른 방법,interface.md",
+    "TypeScript/14) Generic 제네릭 문법.md",
+    "TypeScript/12) class 만들 때 type 지정 가능.md",
+    "TypeScript/11)복습_JS_prototype 문법 짚어보기.md",
+    "TypeScript/10) 복습_JS_class 키워드 알아보기.md",
     "TypeScript/9)타입스크립트로 HTML 변경과 조작할 때 주의점.md",
+    "Solidity/가상 머신.md",
+    "Solidity/컴퓨팅 환경(Computing Environment).md",
+    "TypeScript/8)함수와 methods에 type alias 지정하는 방법.md",
     "TypeScript/7)Literal Types로 만드는 const 변수 유사품.md",
     "TypeScript/6)타입도 변수에 담아서 사용하기 , readonly.md",
     "TypeScript/5)타입 확정하기 Narrowing, Assertion.md",
@@ -174,13 +180,6 @@
     "Solidity/오퍼레이터(Operator).md",
     "useReducer.md",
     "useContext.md",
-    "JS/생명주기.md",
-    "JS/상태(state).md",
-    "README.md",
-    "JS/useEffect 안의 이벤트.md",
-    "Solidity/ERC721.md",
-    "Solidity/ERC721 토큰에 대한 추가 정보 제공방법.md",
-    "Solidity/README.md",
     "readme.js",
     "Solidity/Pasted image 20231017143445.png",
     "Test",

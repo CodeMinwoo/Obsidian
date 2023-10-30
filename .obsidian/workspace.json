@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/14) Generic 제네릭 문법.md",
+                "file": "타입단언.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/14) Generic 제네릭 문법.md",
+                "file": "타입단언.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/14) Generic 제네릭 문법.md",
+                "file": "타입단언.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/14) Generic 제네릭 문법.md"
+                "file": "타입단언.md"
               }
             }
           }
@@ -148,21 +148,23 @@
   },
   "active": "d206a2de7674a247",
   "lastOpenFiles": [
-    "TypeScript/13) Object에 타입을 지정하는 또다른 방법,interface.md",
     "TypeScript/14) Generic 제네릭 문법.md",
+    "타입단언.md",
+    "TypeScript/15)Typescript + React 사용시 유의사항.md",
+    "TypeScript/2)타입스크립트 기본 타입 정리.md",
+    "TypeScript/3)타입을 미리 정하기 애매할때(union, any , unknown).md",
+    "TypeScript/4)함수에 타입 지정하는 법 , void 타입.md",
+    "TypeScript/5)타입 확정하기 Narrowing, Assertion.md",
+    "TypeScript/6)타입도 변수에 담아서 사용하기 , readonly.md",
+    "TypeScript/7)Literal Types로 만드는 const 변수 유사품.md",
+    "TypeScript/8)함수와 methods에 type alias 지정하는 방법.md",
+    "TypeScript/9)타입스크립트로 HTML 변경과 조작할 때 주의점.md",
+    "TypeScript/10) 복습_JS_class 키워드 알아보기.md",
+    "TypeScript/13) Object에 타입을 지정하는 또다른 방법,interface.md",
     "TypeScript/12) class 만들 때 type 지정 가능.md",
     "TypeScript/11)복습_JS_prototype 문법 짚어보기.md",
-    "TypeScript/10) 복습_JS_class 키워드 알아보기.md",
-    "TypeScript/9)타입스크립트로 HTML 변경과 조작할 때 주의점.md",
     "Solidity/가상 머신.md",
     "Solidity/컴퓨팅 환경(Computing Environment).md",
-    "TypeScript/8)함수와 methods에 type alias 지정하는 방법.md",
-    "TypeScript/7)Literal Types로 만드는 const 변수 유사품.md",
-    "TypeScript/6)타입도 변수에 담아서 사용하기 , readonly.md",
-    "TypeScript/5)타입 확정하기 Narrowing, Assertion.md",
-    "TypeScript/4)함수에 타입 지정하는 법 , void 타입.md",
-    "TypeScript/3)타입을 미리 정하기 애매할때(union, any , unknown).md",
-    "TypeScript/2)타입스크립트 기본 타입 정리.md",
     "TypeScript/1)TypeScript 세팅.md",
     "Solidity/Pasted image 20231026102954.png",
     "Solidity/Pasted image 20231026102834.png",
@@ -178,8 +180,6 @@
     "Solidity/Pragma.md",
     "SPDX-License-Identifier MIT.md",
     "Solidity/오퍼레이터(Operator).md",
-    "useReducer.md",
-    "useContext.md",
     "readme.js",
     "Solidity/Pasted image 20231017143445.png",
     "Test",

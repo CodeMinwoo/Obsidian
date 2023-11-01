@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2ddf1c0542f659d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/리액트 기본 세팅.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/15)Typescript + React 사용시 유의사항.md",
+                "file": "React/리액트 기본 세팅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/15)Typescript + React 사용시 유의사항.md",
+                "file": "React/리액트 기본 세팅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/15)Typescript + React 사용시 유의사항.md"
+                "file": "React/리액트 기본 세팅.md"
               }
             }
           }
@@ -146,12 +159,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "553cad55fc656995",
+  "active": "2ddf1c0542f659d6",
   "lastOpenFiles": [
+    "Solidity/Pasted image 20231101114711.png",
+    "React/사수에게 사랑받는 질문방법.md",
+    "React/리액트 기본 세팅.md",
+    "React/리액트 버전 다운그레이드.md",
+    "React/package.json Vs. package-lock.json.md",
+    "React",
+    "Solidity/Pasted image 20231101100936.png",
+    "TypeScript/15)Typescript + React 사용시 유의사항.md",
     "Tailwind",
     "TypeScript/무제 파일.md",
     "TypeScript/타입단언.md",
-    "TypeScript/15)Typescript + React 사용시 유의사항.md",
     "TypeScript/14) Generic 제네릭 문법.md",
     "TypeScript/2)타입스크립트 기본 타입 정리.md",
     "TypeScript/3)타입을 미리 정하기 애매할때(union, any , unknown).md",
@@ -176,17 +196,11 @@
     "알고리즘 수업/1-1.알고리즘의 정의와 다양한 알고리즘 문제.md",
     "NEXT.js",
     "알고리즘 수업",
-    "uint VS. int.md",
-    "Solidity/artifact.require().md",
-    "JS/리액트 훅(hook).md",
-    "Solidity/Pragma.md",
     "readme.js",
     "Solidity/Pasted image 20231017143445.png",
     "Test",
     "TEst",
     "package-lock.json",
-    "node_modules/fs/package.json",
-    "node_modules/fs",
-    "node_modules"
+    "node_modules/fs/package.json"
   ]
 }

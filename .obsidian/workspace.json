@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "함수",
+                "query": "remix",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "553cad55fc656995",
+  "active": "758928eda73c564c",
   "lastOpenFiles": [
     "TypeScript/4)함수에 타입 지정하는 법 , void 타입.md",
     "TypeScript/5)타입 확정하기 Narrowing, Assertion.md",

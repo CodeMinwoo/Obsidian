@@ -22,7 +22,18 @@ npm i
 	-D @babel/preset-typescript
 
 	style-loader
-	 css-loader
+	css-loader
+	cross-env
+	ts-node
+
+	webpack-dev-server -D (핫 리로딩, cors에러 해결 용도)
+	webpack-cli
+	-D @types/webpack-dev-server
+	@pmmmwh/react-refresh-webpack-plugin
+	react-refresh
+	@loadable/component (컴포넌트 분할 로딩해서 로딩속도 빠르게 한다)
+	@types/loadable__component
+	
 	
 ```
 

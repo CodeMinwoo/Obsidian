@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "831d0965cd8b7ddf",
+        "id": "37461d46cac70e77",
         "type": "tabs",
         "children": [
           {
-            "id": "f8900cd1685be250",
+            "id": "7a361f3708b366e0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TypeScript/리액트+타입스크립트/40. Handling & Typing Events.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -146,7 +142,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8900cd1685be250",
+  "active": "553cad55fc656995",
   "lastOpenFiles": [
     "TypeScript/리액트+타입스크립트/40. Handling & Typing Events.md",
     "TypeScript/리액트+타입스크립트",

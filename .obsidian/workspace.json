@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "truffle",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -142,7 +143,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "553cad55fc656995",
+  "active": "758928eda73c564c",
   "lastOpenFiles": [
     "TypeScript/리액트+타입스크립트/40. Handling & Typing Events.md",
     "TypeScript/리액트+타입스크립트",

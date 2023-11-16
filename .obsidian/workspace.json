@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "37461d46cac70e77",
+        "id": "6505d19b6337eeb4",
         "type": "tabs",
         "children": [
           {
-            "id": "7a361f3708b366e0",
+            "id": "56ad6a74d417f41f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "699b39819e47efdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/데이터 요청 방식.md",
+                "file": "클로저(Closure).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "param",
+                "query": "클로",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/데이터 요청 방식.md",
+                "file": "클로저(Closure).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/데이터 요청 방식.md",
+                "file": "클로저(Closure).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/데이터 요청 방식.md"
+                "file": "클로저(Closure).md"
               }
             }
           }
@@ -147,8 +156,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a361f3708b366e0",
+  "active": "699b39819e47efdd",
   "lastOpenFiles": [
+    "렉시컬 환경.md",
+    "실행 컨택스트.md",
+    "클로저(Closure).md",
+    "JS/데이터 요청 방식.md",
     "TypeScript/리액트+타입스크립트/40. Handling & Typing Events.md",
     "TypeScript/리액트+타입스크립트",
     "TypeScript/5)타입 확정하기 Narrowing, Assertion.md",
@@ -176,13 +189,9 @@
     "TypeScript/10) 복습_JS_class 키워드 알아보기.md",
     "TypeScript/13) Object에 타입을 지정하는 또다른 방법,interface.md",
     "TypeScript/12) class 만들 때 type 지정 가능.md",
-    "TypeScript/11)복습_JS_prototype 문법 짚어보기.md",
-    "Solidity/가상 머신.md",
-    "Solidity/컴퓨팅 환경(Computing Environment).md",
     "Solidity/Pasted image 20231026102954.png",
     "Solidity/Pasted image 20231026102834.png",
     "Solidity/Pasted image 20231026102716.png",
-    "NEXT.js/NEXT.js 정리.md",
     "TypeScript",
     "NEXT.js",
     "알고리즘 수업",

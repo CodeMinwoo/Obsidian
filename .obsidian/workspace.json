@@ -11,8 +11,12 @@
             "id": "7a361f3708b366e0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JS/데이터 요청 방식.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "truffle",
+                "query": "param",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -82,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/리액트+타입스크립트/40. Handling & Typing Events.md",
+                "file": "JS/데이터 요청 방식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/리액트+타입스크립트/40. Handling & Typing Events.md",
+                "file": "JS/데이터 요청 방식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/리액트+타입스크립트/40. Handling & Typing Events.md"
+                "file": "JS/데이터 요청 방식.md"
               }
             }
           }
@@ -143,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "758928eda73c564c",
+  "active": "7a361f3708b366e0",
   "lastOpenFiles": [
     "TypeScript/리액트+타입스크립트/40. Handling & Typing Events.md",
     "TypeScript/리액트+타입스크립트",

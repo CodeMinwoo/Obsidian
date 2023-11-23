@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6505d19b6337eeb4",
+        "id": "47cf73dcdeff0c5d",
         "type": "tabs",
         "children": [
           {
-            "id": "56ad6a74d417f41f",
+            "id": "05dfe87d0ee072f9",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "699b39819e47efdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "클로저(Closure).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "클로",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "클로저(Closure).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "클로저(Closure).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "클로저(Closure).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -156,11 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "699b39819e47efdd",
+  "active": "05dfe87d0ee072f9",
   "lastOpenFiles": [
+    "React에서 객체, 객체배열 화면에 출력하기.md",
+    "클로저(Closure).md",
     "렉시컬 환경.md",
     "실행 컨택스트.md",
-    "클로저(Closure).md",
     "JS/데이터 요청 방식.md",
     "TypeScript/리액트+타입스크립트/40. Handling & Typing Events.md",
     "TypeScript/리액트+타입스크립트",
@@ -188,7 +171,6 @@
     "TypeScript/9)타입스크립트로 HTML 변경과 조작할 때 주의점.md",
     "TypeScript/10) 복습_JS_class 키워드 알아보기.md",
     "TypeScript/13) Object에 타입을 지정하는 또다른 방법,interface.md",
-    "TypeScript/12) class 만들 때 type 지정 가능.md",
     "Solidity/Pasted image 20231026102954.png",
     "Solidity/Pasted image 20231026102834.png",
     "Solidity/Pasted image 20231026102716.png",

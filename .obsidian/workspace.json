@@ -11,8 +11,12 @@
             "id": "05dfe87d0ee072f9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -140,6 +148,7 @@
   },
   "active": "05dfe87d0ee072f9",
   "lastOpenFiles": [
+    "Solidity/복합 데이터.md",
     "React에서 객체, 객체배열 화면에 출력하기.md",
     "클로저(Closure).md",
     "렉시컬 환경.md",
@@ -170,7 +179,6 @@
     "TypeScript/8)함수와 methods에 type alias 지정하는 방법.md",
     "TypeScript/9)타입스크립트로 HTML 변경과 조작할 때 주의점.md",
     "TypeScript/10) 복습_JS_class 키워드 알아보기.md",
-    "TypeScript/13) Object에 타입을 지정하는 또다른 방법,interface.md",
     "Solidity/Pasted image 20231026102954.png",
     "Solidity/Pasted image 20231026102834.png",
     "Solidity/Pasted image 20231026102716.png",
